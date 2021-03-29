@@ -1,0 +1,4 @@
+Row(COUNTRY='MR', count=20)
+Row(COUNTRY='TR', count=118)
+Row(COUNTRY='ME', count=7)
+Row(COUNTRY='VE', count=592)
